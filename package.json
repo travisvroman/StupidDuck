@@ -1,0 +1,16 @@
+{
+  "name": "stupidduck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "build.bat",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "namorvtech": "^1.0.0",
+    "typescript": "^3.3.3"
+  }
+}
