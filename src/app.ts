@@ -1,8 +1,8 @@
 // NOTE: To reference the engine on disk instead of the package, comment
 // the first reference and uncomment the second.
 
-/// <reference path="../node_modules/namorvtech/dist/NTMain.d.ts" />
-///// <reference path="../../namorvtech/dist/NTMain.d.ts" />
+///// <reference path="../node_modules/namorvtech/dist/NTMain.d.ts" />
+/// <reference path="../../namorvtech/dist/NTMain.d.ts" />
 
 var test = "";
 
